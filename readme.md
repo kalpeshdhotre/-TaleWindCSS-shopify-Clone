@@ -11,6 +11,7 @@
 -   Tailwindcss framwork
 -   Structuring large pages with tailwindcss
 -   Mobile first approach towards building responsive pages
+-   Inseted videos in pages
 
 <br>
 
@@ -26,7 +27,7 @@
 
 </a>
 
-### <a href="https://paytm.com/" target="_blank">🌏 Original website link</a>
+### <a href="https://www.shopify.com/in" target="_blank">🌏 Original website link</a>
 
 <br>
 
